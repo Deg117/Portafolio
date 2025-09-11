@@ -98,3 +98,4 @@ Hugo: Generador de sitios estáticos escrito en Go. Permite crear páginas web r
 GitHub Actions: Servicio de integración continua que permite automatizar tareas en GitHub, como compilar y desplegar un sitio web automáticamente al hacer cambios en el repositorio.
 
 [repositorio](https://github.com/Deg117/Portafolio)
+.
