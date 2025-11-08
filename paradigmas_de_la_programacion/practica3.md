@@ -83,6 +83,6 @@ ghc hello.hs
 - La guía  Get Startedpermite verificar la instalación de manera rápida.  
 
 ---
-![alt text](image-1.png)
-![alt text](image.png)
-![alt text](image-2.png)
+# UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA  
+
+[Portafolio](https://github.com/Deg117/Portafolio/tree/main/paradigmas_de_la_programacion)
