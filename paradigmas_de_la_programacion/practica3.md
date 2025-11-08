@@ -11,8 +11,7 @@
 
 ---
 
-# Instalacion del entorno de desarrollo de Haskell y funcionamiento de la aplicación TODO
-
+# Instalacion del entorno de desarrollo de Haskell
 ## 1. Introduccion
 
 Los pasos que segui para instalar el entorno de desarrollo de Haskell en Windows utilizando GHCup.  
